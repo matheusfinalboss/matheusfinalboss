@@ -3,8 +3,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=E6E6FA&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+my+name+is+Matheus;I'm+21+years+old;I'm+from+Brazil;I'm+studying+Computer+Science;be+welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=matheusfinalboss&show_icons=true&count_private=true&hide_border=true&title_color=4F4F4F&icon_color=4F4F4F&text_color=E6E6FA&bg_color=0d1117" alt="Matheus Henrique github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusfinalboss&layout=compact&hide_border=true&title_color=4F4F4F&text_color=E6E6FA&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=matheusfinalboss&show_icons=true&count_private=true&hide_border=true&title_color=4f4f4f&icon_color=4f4f4f&text_color=e6e6fa&bg_color=0d1117" alt="Matheus Henrique github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusfinalboss&layout=compact&hide_border=true&title_color=4f4f4f&text_color=e6e6fa&bg_color=0d1117" />
 </div>
 
  ### Studying
