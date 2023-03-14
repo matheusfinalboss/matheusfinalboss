@@ -16,7 +16,7 @@
  ### Media
 <div> 
 <a href = "mailto:matheus.hbaptista.mh@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/matheus-henrique-baptista-74236823a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=%230077B5" style="border-radius: 30px" target="_blank"></a> 
+<a href="https://www.linkedin.com/in/matheus-henrique-baptista/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=%230077B5" style="border-radius: 30px" target="_blank"></a> 
  </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4f4f4f&height=120&section=footer"/>
